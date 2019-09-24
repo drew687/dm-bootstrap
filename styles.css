@@ -35,13 +35,14 @@
   margin: 4% auto;
 }
 .item {
-  width: 1801PX;
+  width: 1800px;
   height: 800px;
 }
 .carousel-inner > .item > img{
   width: 1800px;
   height: 800px;
 }
+
 #icon{
   max-width: 200px;
   margin: 1% auto;
